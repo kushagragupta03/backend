@@ -1,2 +1,4 @@
 flask
 flask-cors
+flake8
+pytest
